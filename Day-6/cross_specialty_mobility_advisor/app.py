@@ -1,8 +1,8 @@
 import streamlit as st
-from utils.parser import extract_text_from_pdf
-from utils.llm_graph import generate_specialty_graph, get_fallback_recommendations
-from utils.llm_detect import get_detected_role
-from utils.llm_cert_recommend import recommend_micro_certifications
+from utils.profile_parsing_agent import extract_text_from_pdf
+from utils.lateral_move_recommender_agent import generate_specialty_graph, get_fallback_recommendations
+from utils.speciality_proximity_mapper_agent import get_detected_role
+from utils.bridging_pathway_generator_agent import recommend_micro_certifications
 import os
 
 st.title("🩺 Cross-Specialty Mobility Advisor")
