@@ -1,0 +1,64 @@
+altair==5.5.0
+annotated-types==0.7.0
+attrs==25.3.0
+blinker==1.9.0
+cachetools==5.5.2
+certifi==2025.6.15
+charset-normalizer==3.4.2
+click==8.2.1
+gitdb==4.0.12
+GitPython==3.1.44
+google-ai-generativelanguage # Removed specific version
+google-api-core # Removed specific version
+google-api-python-client # Removed specific version
+google-auth # Removed specific version
+google-auth-httplib2 # Removed specific version
+google-generativeai # Removed specific version
+googleapis-common-protos # Removed specific version
+grpcio # Removed specific version
+grpcio-status # Removed specific version
+httplib2 # Removed specific version
+idna # Removed specific version
+Jinja2==3.1.6
+jsonschema # Removed specific version
+jsonschema-specifications # Removed specific version
+MarkupSafe==3.0.2
+narwhals # Removed specific version
+# numpy==2.3.0  <-- This line MUST remain commented out or removed
+packaging==24.2
+pandas # Removed specific version
+pillow==11.2.1
+proto-plus # Removed specific version
+protobuf # Removed specific version
+pyarrow # Removed specific version
+pyasn1 # Removed specific version
+pyasn1_modules # Removed specific version
+pydantic # Removed specific version
+pydantic_core # Removed specific version
+pydeck # Removed specific version
+pyparsing # Removed specific version
+python-dateutil # Removed specific version
+python-dotenv==1.1.0
+pytz # Removed specific version
+referencing # Removed specific version
+requests # Removed specific version
+rpds-py # Removed specific version
+rsa # Removed specific version
+six # Removed specific version
+smmap # Removed specific version
+streamlit # Removed specific version
+tenacity # Removed specific version
+toml==0.10.2
+tornado # Removed specific version
+tqdm # Removed specific version
+typing-inspection # Removed specific version
+typing_extensions # Removed specific version
+tzdata # Removed specific version
+uritemplate # Removed specific version
+urllib3 # Removed specific version
+langchain # Removed specific version
+langchain-core # Removed specific version
+langchain-google-genai # Removed specific version
+langchain-chroma
+pypdf # Removed specific version
+pymupdf # Removed specific version

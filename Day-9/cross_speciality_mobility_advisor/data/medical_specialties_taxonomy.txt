@@ -1,0 +1,26 @@
+Medical Specialties Taxonomy:
+
+1.  **Pediatrics:** Focuses on the physical, mental, and social health of infants, children, adolescents, and young adults from birth up to age 21. Pediatricians provide preventive health care and treat common childhood illnesses, infectious diseases, and injuries.
+    * **Subspecialties:** Neonatology, Pediatric Cardiology, Pediatric Gastroenterology, Pediatric Oncology, Adolescent Medicine.
+
+2.  **Neonatology:** A subspecialty of pediatrics that consists of the medical care of newborn infants, especially the ill or premature newborn. It is a hospital-based specialty, typically practiced in neonatal intensive care units (NICUs).
+
+3.  **Internal Medicine:** Deals with the prevention, diagnosis, and treatment of adult diseases. Internists are skilled in the management of patients who have undifferentiated or multi-system disease processes.
+    * **Subspecialties:** Cardiology, Gastroenterology, Pulmonology, Nephrology, Endocrinology, Infectious Disease, Rheumatology, Oncology.
+
+4.  **Cardiology:** A subspecialty of internal medicine that deals with disorders of the heart and the cardiovascular system. Cardiologists diagnose and treat conditions such as heart attacks, heart failure, and high blood pressure.
+    * **Subspecialties:** Interventional Cardiology, Electrophysiology, Echocardiography.
+
+5.  **Interventional Cardiology:** A subspecialty of cardiology that uses specialized catheter-based techniques to diagnose and treat structural heart diseases, such as coronary artery disease, heart valve disease, and congenital heart defects. Procedures include angioplasty and stent placement.
+
+6.  **Family Medicine:** Provides continuing, comprehensive health care for the individual and family across all ages, genders, diseases, and parts of the body. It emphasizes disease prevention and health promotion. Often involves a broad scope, including minor surgery, obstetrics, and pediatrics.
+
+7.  **Emergency Medicine:** Focuses on the diagnosis and treatment of acute illnesses and injuries requiring immediate medical attention. Emergency physicians work in emergency departments and are trained to handle a wide variety of medical emergencies across all age groups.
+
+8.  **Anesthesiology:** Specializes in providing pain relief and care of patients before, during, and after surgery. Anesthesiologists administer anesthesia, monitor vital signs, and manage pain.
+
+9.  **General Surgery:** Focuses on surgical procedures related to the abdomen, including the esophagus, stomach, small bowel, colon, liver, pancreas, gallbladder, and bile ducts. Also includes thyroid, breast, and hernia surgeries.
+
+10. **Orthopedic Surgery:** Deals with conditions involving the musculoskeletal system. Orthopedic surgeons use both surgical and non-surgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumors, and congenital disorders.
+
+11. **Sports Medicine:** A subspecialty that focuses on the prevention, diagnosis, treatment, and rehabilitation of injuries related to sports and exercise. Can be practiced by various specialists including orthopedists, family physicians, and physical medicine and rehabilitation specialists.
